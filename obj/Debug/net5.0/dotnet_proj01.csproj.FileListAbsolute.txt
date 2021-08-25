@@ -1,0 +1,16 @@
+C:\Users\Fábio\Documents\GitHub\dotnet_proj01\bin\Debug\net5.0\dotnet_proj01.exe
+C:\Users\Fábio\Documents\GitHub\dotnet_proj01\bin\Debug\net5.0\dotnet_proj01.deps.json
+C:\Users\Fábio\Documents\GitHub\dotnet_proj01\bin\Debug\net5.0\dotnet_proj01.runtimeconfig.json
+C:\Users\Fábio\Documents\GitHub\dotnet_proj01\bin\Debug\net5.0\dotnet_proj01.runtimeconfig.dev.json
+C:\Users\Fábio\Documents\GitHub\dotnet_proj01\bin\Debug\net5.0\dotnet_proj01.dll
+C:\Users\Fábio\Documents\GitHub\dotnet_proj01\bin\Debug\net5.0\ref\dotnet_proj01.dll
+C:\Users\Fábio\Documents\GitHub\dotnet_proj01\bin\Debug\net5.0\dotnet_proj01.pdb
+C:\Users\Fábio\Documents\GitHub\dotnet_proj01\obj\Debug\net5.0\dotnet_proj01.csproj.AssemblyReference.cache
+C:\Users\Fábio\Documents\GitHub\dotnet_proj01\obj\Debug\net5.0\dotnet_proj01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio\Documents\GitHub\dotnet_proj01\obj\Debug\net5.0\dotnet_proj01.AssemblyInfoInputs.cache
+C:\Users\Fábio\Documents\GitHub\dotnet_proj01\obj\Debug\net5.0\dotnet_proj01.AssemblyInfo.cs
+C:\Users\Fábio\Documents\GitHub\dotnet_proj01\obj\Debug\net5.0\dotnet_proj01.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Documents\GitHub\dotnet_proj01\obj\Debug\net5.0\dotnet_proj01.dll
+C:\Users\Fábio\Documents\GitHub\dotnet_proj01\obj\Debug\net5.0\ref\dotnet_proj01.dll
+C:\Users\Fábio\Documents\GitHub\dotnet_proj01\obj\Debug\net5.0\dotnet_proj01.pdb
+C:\Users\Fábio\Documents\GitHub\dotnet_proj01\obj\Debug\net5.0\dotnet_proj01.genruntimeconfig.cache
